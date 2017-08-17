@@ -59,3 +59,4 @@ module.exports = { factorial, isLeapYear, findMin, randStr }
 
 // cont http://javascript-html5-tutorial.com/algorithms-and-data-structures-in-javascript.html
 // chai document http://chaijs.com/api/bdd/
+// add more comment for testing
