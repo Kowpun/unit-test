@@ -1,1 +1,4 @@
-# unit-test
+Unit testing
+- mocha
+- chai
+- sinon
